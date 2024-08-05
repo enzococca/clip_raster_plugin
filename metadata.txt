@@ -1,0 +1,21 @@
+[general]
+name=Clip Raster by Polygons
+qgisMinimumVersion=3.0
+description=This plugin clips raster layers using polygon features
+version=0.1
+author=Enzo Cocca
+email=enzo.ccc@gmail.com
+
+about=This plugin allows users to clip raster layers using polygon features. It provides an easy-to-use interface to select input layers, set output folder, and optionally add results to QGIS.
+
+tracker=http://github.com/yourusername/clip_raster_plugin/issues
+repository=http://github.com/yourusername/clip_raster_plugin
+
+tags=raster,vector,clip,analysis
+
+homepage=http://github.com/yourusername/clip_raster_plugin
+category=Raster
+icon=icon/icon.png
+
+experimental=True
+deprecated=False
