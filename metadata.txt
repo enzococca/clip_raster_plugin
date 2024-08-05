@@ -8,12 +8,12 @@ email=enzo.ccc@gmail.com
 
 about=This plugin allows users to clip raster layers using polygon features. It provides an easy-to-use interface to select input layers, set output folder, and optionally add results to QGIS.
 
-tracker=http://github.com/yourusername/clip_raster_plugin/issues
-repository=http://github.com/yourusername/clip_raster_plugin
+tracker=http://github.com/enzococca/clip_raster_plugin/issues
+repository=http://github.com/enzococca/clip_raster_plugin
 
 tags=raster,vector,clip,analysis
 
-homepage=http://github.com/yourusername/clip_raster_plugin
+homepage=http://github.com/enzococca/clip_raster_plugin
 category=Raster
 icon=icon/icon.png
 
